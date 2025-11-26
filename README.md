@@ -1,12 +1,11 @@
 ## Hi there 👋
-I am [ItzzMateo](https://github.com/itzzjustmateo)!
-This will be now my new **MAIN** Account, my old one is [ItzzMateo](https://github.com/itzzmateo)!
+I'm [ItzzMateo](https://github.com/itzzjustmateo)!  
+This is now my **main** GitHub account. My old one is still available here: [ItzzMateo](https://github.com/itzzmateo)!
 
-- 🔭 I’m currently working on NexusMines!
-- 🌱 I’m currently developing on Next.JS, using ShadCN!
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about Web-Development
-- 📫 How to reach me: On my [Discord](https://dc.gg/developer)
-- 😄 Pronouns: He/ Him/ His/ ItzzMateo/Mateo/ Developer
-- ⚡ Fun fact: I am still a minor!
+- 🔭 Currently working on **PIXELART**
+- 🌱 Learning and building with **Next.js** & **shadcn/ui**
+- 🤔 Looking for a developer to help with my **Minecraft Clone**
+- 💬 Ask me anything about **Web Development**
+- 📫 Reach me on my [Discord server](https://dc.gg/developer)!
+- 😄 Pronouns: He/Him/His — Mateo / ItzzMateo / ItzzJustMateo
+- ⚡ Fun fact: Still a minor, but already deep into code!
