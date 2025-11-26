@@ -68,9 +68,8 @@ I work across the stack and use tools that help me build fast, scalable web apps
 ---
 
 ### 📌 Current Projects
-**PIXELART**
-A platform where users can create and share pixel art. Building features like accounts, reactions, moderation, galleries, ranking, and performance upgrades.
-Powered by **Next.js**, **shadcn/ui**, **Neon**, and **Drizzle**.
+**Minecraft Clone**
+An application like minecraft
 
 **Minecraft Clone**
 A voxel-based game written from scratch. Currently working on chunk systems, world rendering, and optimization.
