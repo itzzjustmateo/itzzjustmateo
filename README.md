@@ -8,7 +8,7 @@ This is now my **main** GitHub account. My old one is still available here: [Itz
 * 🤔 Looking for a developer to help with my **Minecraft Clone**
 * 💬 Ask me anything about **Web Development**
 * 📫 Reach me on my [Discord server](https://dc.gg/developer)!
-* 😄 Pronouns: He/Him/His — Mateo / ItzzMateo / ItzzJustMateo
+* 😄 Pronouns: He/Him/His — Mateo
 * ⚡ Fun fact: Still a minor, but already deep into code!
 
 ---
