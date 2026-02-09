@@ -84,6 +84,6 @@ I'm always open to:
 
 ### 📬 Contact
 You can reach me through:
-* **Discord server:** [https://dc.gg/developer](https://dc.gg/developer)
+* **Discord server:** [discord.devflare.de](https://dc.devflare.de)
 * GitHub Issues & Discussions
 * More contact options coming soon
