@@ -9,7 +9,6 @@ This is now my **main** GitHub account. My old one is still available here: [Itz
 * 💬 Ask me anything about **Web Development**
 * 📫 Reach me on my [Discord server](https://dc.gg/developer)!
 * 😄 Pronouns: He/Him/His — Mateo
-* ⚡ Fun fact: Still a minor, but already deep into code!
 
 ---
 
