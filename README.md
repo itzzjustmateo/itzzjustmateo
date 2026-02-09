@@ -67,12 +67,8 @@ I work across the stack and use tools that help me build fast, scalable web apps
 ---
 
 ### 📌 Current Projects
-**Minecraft Clone**
-An application like minecraft
-
-**Minecraft Clone**
-A voxel-based game written from scratch. Currently working on chunk systems, world rendering, and optimization.
-Looking for a developer to help with world generation, rendering, or engine logic.
+**AevumMC** (play.devflare.de)
+A minecraft minigame server
 
 ---
 
