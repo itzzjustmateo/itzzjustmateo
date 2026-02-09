@@ -74,9 +74,9 @@ A minecraft minigame server
 
 ### 🤝 How You Can Help
 I'm always open to:
-* Developers who want to collaborate on my **Minecraft Clone**
+* Developers who want to collaborate with me
 * Feedback and ideas for **PIXELART**
-* UI/UX suggestions
+* UI/ UX suggestions
 * Performance and architecture tips
 * Useful tools or libraries I should try
 
