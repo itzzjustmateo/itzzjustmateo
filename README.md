@@ -62,7 +62,7 @@ I work across the stack and use tools that help me build fast, scalable web apps
 * Git / GitHub
 * Vercel
 * VS Code/ Non-Commercial JetBrains Tools
-* Figma/ Canva
+* Figma/ Affinity Studio
 
 ---
 
