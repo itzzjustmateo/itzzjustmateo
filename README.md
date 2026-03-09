@@ -30,7 +30,7 @@ Please follow these rules:
 
 * Do not resell or claim my work as your own.
 * Do not modify and resell my assets.
-* You can use my assets for both commercial and non-commercial purposes.
+* You can now only use my assets for non-commercial purposes.
 
 ---
 
