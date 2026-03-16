@@ -53,9 +53,10 @@ I work across the stack and use tools that help me build fast, scalable web apps
 
 **Databases**
 
-* **Neon (PostgreSQL)** — my main database platform for production projects
+* Neon
 * Drizzle ORM
-* Prisma (occasionally)
+* Prisma
+* MySQL (self-hosted)
 
 **General Tools**
 
