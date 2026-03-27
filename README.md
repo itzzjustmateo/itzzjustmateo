@@ -3,12 +3,11 @@
 I'm [ItzzMateo](https://github.com/itzzjustmateo)!
 This is now my **main** GitHub account. My old one is still available here: [ItzzMateo](https://github.com/itzzmateo)!
 
-* 🔭 Currently working on **PIXELART**
-* 🌱 Learning and building with **Next.js** & **shadcn/ui**
-* 🤔 Looking for a developer to help with my **Minecraft Clone**
+* 🔭 Currently working on **Websites**
+* 🌱 Learning **Rust**
 * 💬 Ask me anything about **Web Development**
-* 📫 Reach me on my [Discord server](https://dc.gg/developer)!
-* 😄 Pronouns: He/Him/His — Mateo
+* 📫 Reach me on my [Discord server](https://dc.devflare.de)!
+* 😄 Pronouns: He/Him/His
 
 ---
 
@@ -68,15 +67,15 @@ I work across the stack and use tools that help me build fast, scalable web apps
 ---
 
 ### 📌 Current Projects
-**AevumMC** (play.devflare.de)
-A minecraft minigame server
+**Ludicra** (mc.devflare.de)
+A minecraft minigame server with only custom gamemodes
 
 ---
 
 ### 🤝 How You Can Help
 I'm always open to:
 * Developers who want to collaborate with me
-* Feedback and ideas for **PIXELART**
+* Feedback and ideas for **PIXELART** and **WEBSITES**
 * UI/ UX suggestions
 * Performance and architecture tips
 * Useful tools or libraries I should try
