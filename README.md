@@ -2,7 +2,7 @@
 
 # Hi, I'm ItzzMateo 👋
 
-**Fullstack Web Developer | Next.js Developer | Medior Pixel Artist**
+**Fullstack Web Developer | Next.js/TanStack Start Developer | Medior Pixel Artist**
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40itzzjustmateo-181717.svg?logo=github\&variant=branded\&size=sm)](https://github.com/itzzjustmateo)
 [![Website](https://www.shieldcn.dev/badge/Website-itzzmateo.devflare.de-181717.svg?logo=ri%3ALuLink\&variant=branded\&size=sm)](https://devflare.de)
