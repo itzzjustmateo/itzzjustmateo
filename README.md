@@ -2,143 +2,188 @@
 
 # Hi, I'm ItzzMateo 👋
 
-**Fullstack Web Developer | Next.js/TanStack Start Developer | Medior Pixel Artist**
+**Fullstack Web-Developer | Systems Programmer | Medior Pixel Artist**
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40itzzjustmateo-181717.svg?logo=github\&variant=branded\&size=sm)](https://github.com/itzzjustmateo)
-[![Website](https://www.shieldcn.dev/badge/Website-itzzmateo.devflare.de-181717.svg?logo=ri%3ALuLink\&variant=branded\&size=sm)](https://devflare.de)
+<a href="https://github.com/itzzjustmateo"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/GitHub-%40itzzjustmateo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="GitHub" src="https://www.shieldcn.dev/badge/GitHub-%40itzzjustmateo-181717.svg?logo=github&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a> <a href="https://itzzmateo.devflare.de"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Website-itzzmateo.devflare.de-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=dark"><img alt="Website" src="https://www.shieldcn.dev/badge/Website-itzzmateo.devflare.de-181717.svg?logo=ri%3ALuLink&amp;variant=branded&amp;size=sm&amp;mode=light"></picture></a>
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/itzzjustmateo.svg?variant=secondary\&size=sm)](https://github.com/itzzjustmateo?tab=followers)
-[![GitHub Stars](https://www.shieldcn.dev/github/user-stars/itzzjustmateo.svg?variant=secondary\&size=sm)](https://github.com/itzzjustmateo?tab=repositories)
-[![Public Repos](https://www.shieldcn.dev/badge/Repos-31-2563eb.svg?logo=github\&variant=secondary\&size=sm)](https://github.com/itzzjustmateo?tab=repositories)
-![Location](https://www.shieldcn.dev/badge/Location-Germany-6366f1.svg?logo=googlemaps\&variant=ghost\&size=sm)
-![Company](https://www.shieldcn.dev/badge/Company-ArexLabs%2C_VOMLabs-1f2937.svg?logo=building\&variant=ghost\&size=sm)
+<a href="https://github.com/itzzjustmateo?tab=followers"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/followers/itzzjustmateo.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Followers" src="https://www.shieldcn.dev/github/followers/itzzjustmateo.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/itzzjustmateo?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/github/user-stars/itzzjustmateo.svg?variant=secondary&amp;size=sm&amp;mode=dark"><img alt="GitHub Stars" src="https://www.shieldcn.dev/github/user-stars/itzzjustmateo.svg?variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <a href="https://github.com/itzzjustmateo?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Repos-61-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=dark"><img alt="Public Repos" src="https://www.shieldcn.dev/badge/Repos-61-2563eb.svg?logo=github&amp;variant=secondary&amp;size=sm&amp;mode=light"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Location-Germany-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Location" src="https://www.shieldcn.dev/badge/Location-Germany-6366f1.svg?logo=googlemaps&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/Company-VOMLabs_%40ArexLabs_%40Lux--Client_-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=dark"><img alt="Company" src="https://www.shieldcn.dev/badge/Company-VOMLabs_%40ArexLabs_%40Lux--Client_-1f2937.svg?logo=building&amp;variant=ghost&amp;size=sm&amp;mode=light"></picture>
 
 </div>
 
----
+## About Me
 
-## 🚀 About Me
+I'm a full-stack developer who loves to build useful tools, clean UIs, and full-stack systems.
 
-I'm a full-stack developer who enjoys building creative tools, smooth user interfaces, and interactive digital experiences.
+Most of my work uses **TanStack Start**, **Next.js**, **TypeScript**, **Java**, **Kotlin**, **Docker** and **more**. I like turning my ideas into (discontinued) prototypes and giving them polished User Interfaces.
 
-Most of my work revolves around **Next.js**, **TypeScript**, **Java**, **Kotlin**, and modern tooling. I like turning ideas into fast prototypes and refining them into polished, production-ready applications.
-
-* 🔭 Currently working on **an old project**
-* 🌱 Currently learning **Rust**
-* 💬 Ask me anything about **web development**
+* 🔭 Currently working on **[LazyDesktop](https://github.com/VOMLabs/lazydesktop/)**
+* 🌱 Currently learning **Rust and C++**
+* 💬 Ask me anything about **Web development**
 * 📫 Reach me via my [Discord server](https://dc.devflare.de)
 * 😄 Pronouns: **He/Him/His**
 
-This is my **main GitHub account**. My old account is still available here:</br>
-👉 https://github.com/itzzmateo
+## Current Projects
 
----
+### Minecraft Plugins
 
-## 🧠 What I’m Working On
+* **ServerGuard**: A continued version of my old plugin **[CraftGuard](https://modrinth.com/plugin/craftguard)**
+* **PartySystem**: A (private) plugin for an internal server of [VOMLabs](https://github.com/VOMLabs/)
 
-I’m constantly experimenting with new technologies and improving performance, UX, and workflows.
+### Programs
 
-Some current focuses:
+* **LazyDesktop**: A completely free KDE-Native Git-GUI Client made in C++ and Qt
+* **Ferrum**: My rewrite of Minecraft made purely in Rust and wgpu (soon bevy, it is not developed far yet, so an engine swap takes a day or two)
 
-* 🎨 **Pixel Art** – for my private projects
-* 🧱 **Minecraft Projects** – closed for collaboration
-* 🌐 **Websites** – closed for new requests
+### Websites
 
----
+* **[SumoxGames](https://www.sumox.net/)**: A website of a friend made in Next.js and shadcn/ui ([BeUI](https://beui.dev))
+* **Gim**: A website to host your images/videos, made in TanStack Start and MinIO (Filestorage).
 
-## 📌 Current Projects
+## Skills & Technologies
 
-### **ServerGuard + FAWE-Folia**
+<div align="center">
+  <a href="https://www.typescriptlang.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="TypeScript" src="https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://www.rust-lang.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Rust" src="https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://www.python.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Python" src="https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://isocpp.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="C++" src="https://www.shieldcn.dev/badge/-C%2B%2B-00599C.svg?logo=cplusplus&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://dev.java/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Java" src="https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://nextjs.org/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Next.js" src="https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://react.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="React" src="https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://sdk.vercel.ai/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-AI_SDK-000000.svg?logo=vercel&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="AI SDK" src="https://www.shieldcn.dev/badge/-AI_SDK-000000.svg?logo=vercel&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://zod.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Zod" src="https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://tanstack.com/start/latest">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-TanStack_Start-FF4154.svg?logo=tanstack&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="TanStack Start" src="https://www.shieldcn.dev/badge/-TanStack_Start-FF4154.svg?logo=tanstack&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://tailwindcss.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Tailwind CSS" src="https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+  
+  <a href="https://vite.dev/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=dark">
+      <img alt="Vite" src="https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&amp;variant=branded&amp;size=sm&amp;mode=light">
+    </picture>
+  </a>
+</div>
 
-ServerGuard, a continued version of my old plugin **[CraftGuard](https://modrinth.com/plugin/craftguard)**
+## Tech Stack
 
-FAWE-Folia, a (currently private) fork of WorldEdit integrating modern Community Suggestions and Folia Support
+My usual and modern stack :)
 
----
+### Websites
+* **Frontend:** TanStack Start, React, shadcn/ui, Tailwind CSS
+* **Backend:** Bun, ElysiaJS
+* **Databases:** PostgreSQL, Drizzle ORM (Prisma if MongoDB), Neon (or self-hosted)
+* **Hosting:** Vercel (or self-hosted)
 
-## 🛠️ Skills & Technologies
+### MC Plugins
+* **Languages:** Java / Kotlin (JVM)
+* **Build System:** Gradle
+* **Databases & Connectivity:** JetBrains Exposed, HikariCP, PostgreSQL
 
-![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript\&variant=branded\&size=sm)
-![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python\&variant=branded\&size=sm)
-![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk\&variant=branded\&size=sm)
-![Kotlin](https://www.shieldcn.dev/badge/-Kotlin-7F52FF.svg?logo=kotlin\&variant=branded\&size=sm)
-![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript\&variant=branded\&size=sm)
-![Rust](https://www.shieldcn.dev/badge/-Rust-000000.svg?logo=rust\&variant=branded\&size=sm)
-![Gradle](https://www.shieldcn.dev/badge/-Gradle-02303A.svg?logo=gradle\&variant=branded\&size=sm)
-![Maven](https://www.shieldcn.dev/badge/-Maven-C71A36.svg?logo=apachemaven\&variant=branded\&size=sm)
-![Convex](https://www.shieldcn.dev/badge/-Convex-EE342F.svg?logo=convex\&variant=branded\&size=sm)
-![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs\&variant=branded\&size=sm)
-![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react\&variant=branded\&size=sm)
-![Biome](https://www.shieldcn.dev/badge/-Biome-60A5FA.svg?logo=biome\&variant=branded\&size=sm)
-![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss\&variant=branded\&size=sm)
-![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL-4169E1.svg?logo=postgresql\&logoColor=fff\&variant=branded) <img width="85" height="32" alt="image" src="https://github.com/user-attachments/assets/5ef6f7e2-4227-430e-b1a8-030c9b3632f8" />
+### Software
+* **Languages:** Rust (Mainly), C++
 
----
+### Tools & Environment
+* **Version Control:** Git & GitHub
+* **Editors / IDEs:** Zed (Primary) / NeoVim (+LazyVim) / JetBrains IDEs
+* **Design:** Affinity / Photopea
 
-## 🧩 Tech Stack Overview
+> Note on Zed: It's my primary editor to code, because of its speed. I do not use any of their AI features except the Tab-Complete
 
-### Frontend
+## Usage of My Pixel Art & Code
 
-* Next.js
-* React
-* shadcn/ui
-* Tailwind CSS
+### Pixel art
 
-### Backend & Infrastructure
+You are free to use my pixel art.
 
-* Node.js
-* Java / Kotlin (JVM)
-* Gradle & Maven
-* Server Actions
-* Edge Functions
-
-### Databases
-
-* MySQL (self-hosted)
-* PostgreSQL
-* Prisma / Drizzle ORM
-* Neon
-
-### Tools
-
-* Git & GitHub
-* Vercel
-* Zed / Cursor / JetBrain's Tools (non-commercial)
-* Figma / Affinity
-
-> To that with Cursor, this is just my main editor, because all my settings are there
-
----
-
-## 🖼️ Usage of My Pixel Art & Code
-
-You are free to use my pixel art and code.
-
-✔ Free to use (non-commercial)
+✔ Free to use (non-commercial)  
 ✔ Credit is optional (but appreciated)
 
 **Restrictions:**
-
 * Do not resell or claim as your own
 * Do not modify and resell
 
----
+### Code
 
-## 🤝 How You Can Help
+For my code I use a varianty of different licenses, always look if there is a "LICENSE", "LICENSE.md" or "LICENSE.txt" in the project. If there is, then it applies first, if not, then my code should use AGPL-3 and I just forgot to add a License
+
+## How You Can Help
 
 I'm always open to:
-
 * Collaborations
-* Feedback for **my Minecraft Plugins**
+* Feedback to **my Code**
 * UI/UX improvements
-* Performance & architecture ideas
+* Performance, architecture and general ideas
 * Cool tools or libraries
 
----
-
-## 📬 Contact
+## Contact
 
 * 💬 Discord: https://dc.devflare.de
 * 💻 GitHub Issues & Discussions
-* 📡 More contact options may come soon™
+* 📡 More contact options coming soon™
 
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
